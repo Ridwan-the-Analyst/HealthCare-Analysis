@@ -84,7 +84,7 @@ The dataset includes:
 
 ## 👤 Author
 **Ridwan**  
-Aspiring Data Analyst | Excel (Power Query, Pivot Tables, Pivot Charts)
+Data Analyst | Excel (Power Query, Pivot Tables, Pivot Charts)
 
 📌 *Feedback and suggestions are welcome!*
 
